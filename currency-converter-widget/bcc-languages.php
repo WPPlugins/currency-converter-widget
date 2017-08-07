@@ -1,0 +1,2 @@
+<?php if( !defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+return array('fr-FR' => 'Français', 'hi-IN' => 'हिंदी', 'es-ES' => 'Español', 'it-IT' => 'Italiano', 'uk-UA' => 'Український', 'nl-NL' => 'Nederlands', 'ru-RU' => 'Русский'); ?>

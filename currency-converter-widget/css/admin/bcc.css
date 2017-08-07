@@ -1,0 +1,95 @@
+.currency-wiki-widget-input {
+	max-width: 200px;
+}
+.col-md-6 {
+	width: 49%;
+	float: left;
+}
+h1.wp-heading-inline:before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background: url(//cdn.currency.wiki/templates/cwikitemplate/images/i-conv.png) no-repeat center #d51d29;
+    left: 0;
+    top: 27px;
+}
+.wrap h1.wp-heading-inline {
+    display: inline-block;
+    margin-right: 5px;
+    font-size: 28px;
+    font-weight: 300;
+    padding: 20px 0 10px 45px;
+    color: inherit;
+}
+.currency-wiki-widget-label {
+    margin-right: 20px;
+    line-height: 42px;
+    font-size: 17px;
+    color: #131415;
+    font-weight: 300;
+}
+.currency-wiki-widget-input {
+    background-color: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+    border-radius: 4px;
+    border: 1px solid #dde2e4;
+    height: 41px;
+    width: 200px;
+    padding: 10px;
+    font-size: 17px;
+    color: #131415;
+    line-height: 1.235;
+    white-space: nowrap;
+    position: relative;
+}
+select.currency-wiki-widget-input {
+	width: 200px;
+    cursor: pointer;
+    border: 1px solid #dde2e4;
+    height: 41px;
+    padding: 10px;
+    font-size: 17px;
+    color: #131415;
+    line-height: 1.235;
+    white-space: nowrap;
+    position: relative;
+}
+.wp-color-result {
+    width: 159px;
+    cursor: pointer;
+    border: 1px solid rgb(221, 226, 228);
+    padding: 10px;
+    font-size: 17px;
+    color: rgb(19, 20, 21);
+    line-height: 1.235;
+    white-space: nowrap;
+    position: relative;
+}
+.button-wiki-widget {
+	background: #D51D29 !important;
+	color: #FFFFFF !important;
+	margin-right: 6px;
+}
+.size.input-block {
+	font-family: 'Roboto', sans-serif;
+    padding: 10px;
+    font-size: 17px;
+    color: #131415;
+    line-height: 1.235;
+}
+.size.input-block label {
+    margin-right: 15px;
+}
+.wp-picker-input-wrap {
+    display: none !important;
+}
+.col-md-12 {
+	width: 100%;
+	float: left;
+}
+.col-md-12 input{
+	width: 100%;
+	font-size: 20px;
+}
